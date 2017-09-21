@@ -1,0 +1,8 @@
+Write notebook that opens a text file, tokenizes it and identifies the top 10 high-frequency words. To do this you need to:
+
+    Put the text file in the folder with the notebook.
+    Figure out the code for opening a text file and reading it into a variable. Can you figure out how to find code that will open a file and read it in?
+    Then you want to split it into words (tokenize it).
+    Then you need to count the words and find the top ten.
+
+The important thing is to explain what you are doing using markdown cells.
